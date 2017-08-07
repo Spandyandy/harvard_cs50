@@ -1,0 +1,4 @@
+0. 3 x 3, 9 x 9
+1. 2-dimensional array
+2. greet()
+3. init, draw, move, won
